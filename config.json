@@ -1,0 +1,13 @@
+{
+  "selected": ["npt-gpu"],
+  "algo_list": [
+    {
+      "id": "npt-gpu",
+      "algo": "neptune",
+      "pool": "stratum+ssl://ru.nptpool.io:4444",
+      "worker_name": "worker001",
+      "address": "nolgam12xvp30khp4rl0j2asmewla3s4....",
+      "config": { "type": "gpu", "option": "all" }
+    }
+  ]
+}
